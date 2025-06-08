@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sinura Damsath Perera.
-- 👀 I’m interested in Web developpement.
+- 👀 I'm passionate about web development.
 - 🌱 I’m currently studing at Ananda College, Colombo 10.
 - 💞️ I’m looking to collaborate on a web development project.
 - 📫 You can reach me via email at sinuradamsath2022@gmail.com.
