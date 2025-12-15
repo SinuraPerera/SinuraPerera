@@ -19,11 +19,11 @@
 
 <img align="bottom" alt="cover1_gif" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dmY3YyMTJjMzVlNXlscHQ4cHhhdjNtZDA4bmlyNXc0bnVvcWM2cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif">
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="right">Connect with me:</h3>
 
 ###
 
-<div align="left">
+<div align="right">
   <a href="sinuradamsath2022@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
