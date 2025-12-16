@@ -9,7 +9,7 @@
 
 - 🌱 🌱 I’m currently studying at **Ananda College, Colombo 10**
 
-- 💬 👀 I'm passionate about **Web Developement, Graphic Design, ML, and Cybersecurity**
+- 💬 👀 I'm passionate about **Web Developement, Graphic Design, ML, Arduino and Cybersecurity**
 
 - 📫 How to reach me **sinuradamsath2022@gmail.com**
 
@@ -99,11 +99,17 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SinuDam&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="hhttps://github-readme-activity-graph.vercel.app/graph?username=SinuDam&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-<img align="center" alt="cover1_gif" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dmY3YyMTJjMzVlNXlscHQ4cHhhdjNtZDA4bmlyNXc0bnVvcWM2cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif">
+###
 
+<div align="center">
+   <img align="center" alt="cover1_gif" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dmY3YyMTJjMzVlNXlscHQ4cHhhdjNtZDA4bmlyNXc0bnVvcWM2cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif">
+
+   <img align="center" alt="cover1_gif" width="400" src="https://user-images.githubusercontent.com/115484634/195130740-777d8ee1-7a00-4b1b-b93f-690bf2f0f823.png">
+
+   <i><b><h2>Winner of the Bits 25' organized by the ACICTS </h2></b></i>
 ###
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
