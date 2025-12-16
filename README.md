@@ -5,7 +5,7 @@
 
 <img align="right" alt="cover_gif" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhmaDN6aWE3NGljazN5ZGEwcmFtdXlqNmdndXRsYzA1dnI3djFmbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif">
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=SinuDam&color=blue&style=for-the-badge" alt="sinuraperera"/></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=SinuDam&color=blueviolet&style=for-the-badge" alt="sinuraperera"/></p>
 
 - 🌱 🌱 I’m currently studying at **Ananda College, Colombo 10**
 
@@ -93,13 +93,20 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SinuDam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SinuDam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://camo.githubusercontent.com/11cbc3b06325ed6fbc9f749faa2f61c24a821de2d9246f86c467c26a9d1dc994/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d50696e73617261506572657261266c6f63616c653d656e266d6f64653d6461696c79267468656d653d616c676f6c696126686964655f626f726465723d66616c736526626f726465725f7261646975733d35266f726465723d33" height="150" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="hhttps://github-readme-activity-graph.vercel.app/graph?username=SinuDam&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SinuDam&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
