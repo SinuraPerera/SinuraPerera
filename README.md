@@ -1,4 +1,4 @@
-![Header](./ggtu.png)
+![Header](./header.png)
 
 <h1 align="center">Hi 👋, I'm Sinura Perera</h1>
 <h3 align="center">Full Stack Web Developer in Sri Lanka. Passionate about Web Developement, Graphic Design, AI, ML, Arduino, and Cybersecurity.</h3>
