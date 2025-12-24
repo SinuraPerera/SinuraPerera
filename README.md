@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-<h1 align="center">Hi 👋, I'm Sinura Perera</h1>
+<h1 align="center">Hi 👋, I'm Sinura Damsath Perera</h1>
 <h3 align="center">Full Stack Web Developer in Sri Lanka. Passionate about Web Developement, Graphic Design, AI, ML, Arduino, and Cybersecurity.</h3>
 
 <img align="right" alt="cover_gif" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhmaDN6aWE3NGljazN5ZGEwcmFtdXlqNmdndXRsYzA1dnI3djFmbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif">
